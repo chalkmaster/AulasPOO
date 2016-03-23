@@ -1,2 +1,3 @@
-# AulasPOO
-ExerciciosExemploAulasPOO
+-> Banco com erros: Um pequeno e simples "programa bancário". Este programa possui uma série de bugs propositais que os alunos devem corrigir e ajustar. Vão desde itens não implementados, erros conceituais, erros de copy and paste, portugues, má fé, encapsulamento, etc...
+
+-> Pokemon: Aprendendo os conceitos de orientação a objetos usando Pokemons como exemplo (ao invés dos metodos tradicionais como animais ou carros...)
