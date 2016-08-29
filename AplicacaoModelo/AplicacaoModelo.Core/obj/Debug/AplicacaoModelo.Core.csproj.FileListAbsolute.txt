@@ -1,0 +1,5 @@
+e:\charles.fortes\documents\visual studio 2015\Projects\AplicacaoModelo\AplicacaoModelo.Core\bin\Debug\AplicacaoModelo.Core.dll
+e:\charles.fortes\documents\visual studio 2015\Projects\AplicacaoModelo\AplicacaoModelo.Core\bin\Debug\AplicacaoModelo.Core.pdb
+e:\charles.fortes\documents\visual studio 2015\Projects\AplicacaoModelo\AplicacaoModelo.Core\obj\Debug\AplicacaoModelo.Core.csprojResolveAssemblyReference.cache
+e:\charles.fortes\documents\visual studio 2015\Projects\AplicacaoModelo\AplicacaoModelo.Core\obj\Debug\AplicacaoModelo.Core.dll
+e:\charles.fortes\documents\visual studio 2015\Projects\AplicacaoModelo\AplicacaoModelo.Core\obj\Debug\AplicacaoModelo.Core.pdb
