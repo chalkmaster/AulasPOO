@@ -1,0 +1,5 @@
+e:\charles.fortes\documents\visual studio 2015\Projects\Pokemon.Web\Pokemon.Core\bin\Debug\Pokemon.Core.dll
+e:\charles.fortes\documents\visual studio 2015\Projects\Pokemon.Web\Pokemon.Core\bin\Debug\Pokemon.Core.pdb
+e:\charles.fortes\documents\visual studio 2015\Projects\Pokemon.Web\Pokemon.Core\obj\Debug\Pokemon.Core.csprojResolveAssemblyReference.cache
+e:\charles.fortes\documents\visual studio 2015\Projects\Pokemon.Web\Pokemon.Core\obj\Debug\Pokemon.Core.dll
+e:\charles.fortes\documents\visual studio 2015\Projects\Pokemon.Web\Pokemon.Core\obj\Debug\Pokemon.Core.pdb

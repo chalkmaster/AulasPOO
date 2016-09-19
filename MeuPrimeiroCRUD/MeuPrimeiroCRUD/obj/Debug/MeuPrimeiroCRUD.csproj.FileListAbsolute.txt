@@ -1,0 +1,10 @@
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\bin\Debug\MeuPrimeiroCRUD.exe.config
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\bin\Debug\MeuPrimeiroCRUD.exe
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\bin\Debug\MeuPrimeiroCRUD.pdb
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.csprojResolveAssemblyReference.cache
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.Properties.Resources.resources
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.csproj.GenerateResource.Cache
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.exe
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.pdb
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.Form1.resources
+e:\charles.fortes\documents\visual studio 2015\Projects\MeuPrimeiroCRUD\MeuPrimeiroCRUD\obj\Debug\MeuPrimeiroCRUD.frmCadastro.resources
