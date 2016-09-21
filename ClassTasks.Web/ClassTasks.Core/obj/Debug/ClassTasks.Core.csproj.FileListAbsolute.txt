@@ -1,0 +1,5 @@
+e:\charles.fortes\documents\visual studio 2015\Projects\ClassTasks.Web\ClassTasks.Core\bin\Debug\ClassTasks.Core.dll
+e:\charles.fortes\documents\visual studio 2015\Projects\ClassTasks.Web\ClassTasks.Core\bin\Debug\ClassTasks.Core.pdb
+e:\charles.fortes\documents\visual studio 2015\Projects\ClassTasks.Web\ClassTasks.Core\obj\Debug\ClassTasks.Core.csprojResolveAssemblyReference.cache
+e:\charles.fortes\documents\visual studio 2015\Projects\ClassTasks.Web\ClassTasks.Core\obj\Debug\ClassTasks.Core.dll
+e:\charles.fortes\documents\visual studio 2015\Projects\ClassTasks.Web\ClassTasks.Core\obj\Debug\ClassTasks.Core.pdb
