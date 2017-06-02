@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0e71854a-1b52-4a63-ab08-059c94fc781f" name="charles.fortes@BHZDS012 2012-06-23 11:23:03" runUser="PRIME\charles.fortes" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="29fc47a7-4b49-4376-bbb3-5e54a98db4ce">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="charles.fortes_BHZDS012 2012-06-23 11_23_03">
+      <DeploymentItem filename="C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\bin\Debug\Top.Framework.Core.dll" />
+      <DeploymentItem filename="C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\Required\NHibernate.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-23T11:23:03.9185519-03:00" queuing="2012-06-23T11:23:03.9565540-03:00" start="2012-06-23T11:23:03.9825555-03:00" finish="2012-06-23T11:23:05.3256324-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NomeDeveSerInformado" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="96fe2a77-3ae1-77e5-87e1-cd779e457d49">
+      <Execution id="a9b46f73-ce82-412c-a014-24d3af348048" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.DomainObjects.Security.UserTest, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NomeDeveSerInformado" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="96fe2a77-3ae1-77e5-87e1-cd779e457d49" executionId="a9b46f73-ce82-412c-a014-24d3af348048" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a9b46f73-ce82-412c-a014-24d3af348048" testId="96fe2a77-3ae1-77e5-87e1-cd779e457d49" testName="NomeDeveSerInformado" computerName="BHZDS012" duration="00:00:01.0637149" startTime="2012-06-23T11:23:04.0155574-03:00" endTime="2012-06-23T11:23:05.3066313-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9b46f73-ce82-412c-a014-24d3af348048">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Top.Framework.Core.TestBase.DomainObjects.Security.UserTest.NomeDeveSerInformado threw exception: 
+NHibernate.MappingException: Could not compile the mapping document: Top.Framework.Core.Infrastructure.Repository.NHibernate.Mapping.User.hbm.xml ---&gt; NHibernate.MappingException: Problem trying to set property type by reflection ---&gt; NHibernate.MappingException: class Top.Framework.Core.DomainObjects.Security.User, Top.Framework.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null not found while looking for property: Name ---&gt; NHibernate.PropertyNotFoundException: Could not find a getter for property 'Name' in class 'Top.Framework.Core.DomainObjects.Security.User'</Message>
+          <StackTrace>    at NHibernate.Properties.BasicPropertyAccessor.GetGetter(Type type, String propertyName)
+   at NHibernate.Util.ReflectHelper.ReflectedPropertyClass(String className, String name, String accessorName)
+ --- End of inner exception stack trace ---
+    at NHibernate.Util.ReflectHelper.ReflectedPropertyClass(String className, String name, String accessorName)
+   at NHibernate.Mapping.SimpleValue.SetTypeUsingReflection(String className, String propertyName, String accesorName)
+ --- End of inner exception stack trace ---
+    at NHibernate.Mapping.SimpleValue.SetTypeUsingReflection(String className, String propertyName, String accesorName)
+   at NHibernate.Cfg.XmlHbmBinding.PropertiesBinder.CreateProperty(IEntityPropertyMapping propertyMapping, String propertyOwnerClassName, IValue value, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.PropertiesBinder.Bind(IEnumerable`1 properties, Table table, IDictionary`2 inheritedMetas, Action`1 modifier, Action`1 addToModelAction)
+   at NHibernate.Cfg.XmlHbmBinding.PropertiesBinder.Bind(IEnumerable`1 properties, IDictionary`2 inheritedMetas, Action`1 modifier)
+   at NHibernate.Cfg.XmlHbmBinding.PropertiesBinder.Bind(IEnumerable`1 properties, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.RootClassBinder.Bind(HbmClass classSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.AddEntitiesMappings(HbmMapping mappingSchema, IDictionary`2 inheritedMetas)
+   at NHibernate.Cfg.XmlHbmBinding.MappingRootBinder.Bind(HbmMapping mappingSchema)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+ --- End of inner exception stack trace ---
+    at NHibernate.Cfg.Configuration.LogAndThrow(Exception exception)
+   at NHibernate.Cfg.Configuration.AddDeserializedMapping(HbmMapping mappingDocument, String documentFileName)
+   at NHibernate.Cfg.Configuration.ProcessMappingsQueue()
+   at NHibernate.Cfg.Configuration.AddInputStream(Stream xmlInputStream, String name)
+   at NHibernate.Cfg.Configuration.AddResource(String path, Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(Assembly assembly)
+   at NHibernate.Cfg.Configuration.AddAssembly(String assemblyName)
+   at NHibernate.Cfg.Configuration.DoConfigure(ISessionFactoryConfiguration factoryConfiguration)
+   at NHibernate.Cfg.Configuration.Configure(XmlReader textReader)
+   at NHibernate.Cfg.Configuration.Configure(String fileName, Boolean ignoreSessionFactoryConfig)
+   at NHibernate.Cfg.Configuration.Configure()
+   at Top.Framework.Core.Infrastructure.Repository.Helper.PersistenceHelper.get_SessionFactory() in C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\Infrastructure\Repository\Helper\PersistenceHelper.cs:line 17
+   at Top.Framework.Core.Infrastructure.Repository.Helper.PersistenceHelper.OpenSession() in C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\Infrastructure\Repository\Helper\PersistenceHelper.cs:line 27
+   at Top.Framework.Core.TestBase.DomainObjects.Security.UserTest.NomeDeveSerInformado() in C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Tests\Top.Framework.Core.TestBase\DomainObjects\Security\UserTest.cs:line 20
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

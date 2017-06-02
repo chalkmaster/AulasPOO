@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7de784ea-bccf-482f-b9f9-c5d20afc28a2" name="charles.fortes@BHZDS012 2012-06-23 11:54:33" runUser="PRIME\charles.fortes" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="29fc47a7-4b49-4376-bbb3-5e54a98db4ce">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="charles.fortes_BHZDS012 2012-06-23 11_54_33">
+      <DeploymentItem filename="C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\bin\Debug\Top.Framework.Core.dll" />
+      <DeploymentItem filename="C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\Required\NHibernate.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-23T11:54:33.9306544-03:00" queuing="2012-06-23T11:54:33.9676565-03:00" start="2012-06-23T11:54:33.9906578-03:00" finish="2012-06-23T11:54:35.7107562-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NomeDeveSerInformado" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="96fe2a77-3ae1-77e5-87e1-cd779e457d49">
+      <Execution id="33f9ca04-0642-4709-b2f7-eee147612460" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.DomainObjects.Security.UserTest, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NomeDeveSerInformado" />
+    </UnitTest>
+    <UnitTest name="UsurioSalvaCorretamente" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="d745d454-c309-8cde-280c-66b7e4320004">
+      <Execution id="c8d3ec05-4663-402a-8419-dd6616911448" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.DomainObjects.Security.UserTest, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UsurioSalvaCorretamente" />
+    </UnitTest>
+    <UnitTest name="TelefoneFixoDeveSerInformado" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="ada81518-e737-cce8-c177-97ce7c346aa3">
+      <Execution id="f44527ab-7c6a-453e-8029-62c1dfb28bd4" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.DomainObjects.Security.UserTest, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TelefoneFixoDeveSerInformado" />
+    </UnitTest>
+    <UnitTest name="LoginDeveSerInformado" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="7277b342-39cc-016f-4a0f-61fb071cdf70">
+      <Execution id="3e916839-b136-418a-bd10-5dd0f2865c54" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.DomainObjects.Security.UserTest, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoginDeveSerInformado" />
+    </UnitTest>
+    <UnitTest name="SenhaDeveSerInformada" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="d929814e-6155-67e1-e0bc-7659e6545572">
+      <Execution id="27cebb13-112d-498c-8eba-300ee9259d91" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.DomainObjects.Security.UserTest, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SenhaDeveSerInformada" />
+    </UnitTest>
+    <UnitTest name="CanGenerateSchema" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="cb4f194f-ff7c-089f-71b7-f25548c15a1d">
+      <Execution id="5a9a1097-543b-4e35-9680-a79a7080e85e" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.TestBase, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanGenerateSchema" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7277b342-39cc-016f-4a0f-61fb071cdf70" executionId="3e916839-b136-418a-bd10-5dd0f2865c54" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="96fe2a77-3ae1-77e5-87e1-cd779e457d49" executionId="33f9ca04-0642-4709-b2f7-eee147612460" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ada81518-e737-cce8-c177-97ce7c346aa3" executionId="f44527ab-7c6a-453e-8029-62c1dfb28bd4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cb4f194f-ff7c-089f-71b7-f25548c15a1d" executionId="5a9a1097-543b-4e35-9680-a79a7080e85e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d745d454-c309-8cde-280c-66b7e4320004" executionId="c8d3ec05-4663-402a-8419-dd6616911448" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d929814e-6155-67e1-e0bc-7659e6545572" executionId="27cebb13-112d-498c-8eba-300ee9259d91" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3e916839-b136-418a-bd10-5dd0f2865c54" testId="7277b342-39cc-016f-4a0f-61fb071cdf70" testName="LoginDeveSerInformado" computerName="BHZDS012" duration="00:00:01.2699626" startTime="2012-06-23T11:54:33.9976582-03:00" endTime="2012-06-23T11:54:35.4747427-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e916839-b136-418a-bd10-5dd0f2865c54">
+    </UnitTestResult>
+    <UnitTestResult executionId="33f9ca04-0642-4709-b2f7-eee147612460" testId="96fe2a77-3ae1-77e5-87e1-cd779e457d49" testName="NomeDeveSerInformado" computerName="BHZDS012" duration="00:00:00.0029684" startTime="2012-06-23T11:54:35.4807430-03:00" endTime="2012-06-23T11:54:35.4887435-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33f9ca04-0642-4709-b2f7-eee147612460">
+    </UnitTestResult>
+    <UnitTestResult executionId="f44527ab-7c6a-453e-8029-62c1dfb28bd4" testId="ada81518-e737-cce8-c177-97ce7c346aa3" testName="TelefoneFixoDeveSerInformado" computerName="BHZDS012" duration="00:00:00.0024585" startTime="2012-06-23T11:54:35.4957439-03:00" endTime="2012-06-23T11:54:35.5017442-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f44527ab-7c6a-453e-8029-62c1dfb28bd4">
+    </UnitTestResult>
+    <UnitTestResult executionId="5a9a1097-543b-4e35-9680-a79a7080e85e" testId="cb4f194f-ff7c-089f-71b7-f25548c15a1d" testName="CanGenerateSchema" computerName="BHZDS012" duration="00:00:00.0954419" startTime="2012-06-23T11:54:35.5047444-03:00" endTime="2012-06-23T11:54:35.6047501-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a9a1097-543b-4e35-9680-a79a7080e85e">
+      <Output>
+        <StdOut>drop table if exists Sample
+
+    drop table if exists User
+
+    create table Sample (
+        Id integer NOT NULL AUTO_INCREMENT,
+       CreatedAt datetime not null,
+       MarkedToDelete bit not null,
+       Name varchar(100) not null,
+       primary key (Id)
+    )
+
+    create table User (
+        Id integer NOT NULL AUTO_INCREMENT,
+       CreatedAt datetime not null,
+       MarkedToDelete bit not null,
+       Nome varchar(100) not null,
+       TelefoneFixo varchar(20) not null,
+       Login varchar(20) not null,
+       Senha varchar(8) not null,
+       primary key (Id)
+    )</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c8d3ec05-4663-402a-8419-dd6616911448" testId="d745d454-c309-8cde-280c-66b7e4320004" testName="UsurioSalvaCorretamente" computerName="BHZDS012" duration="00:00:00.0407910" startTime="2012-06-23T11:54:35.6087504-03:00" endTime="2012-06-23T11:54:35.6527529-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8d3ec05-4663-402a-8419-dd6616911448">
+    </UnitTestResult>
+    <UnitTestResult executionId="27cebb13-112d-498c-8eba-300ee9259d91" testId="d929814e-6155-67e1-e0bc-7659e6545572" testName="SenhaDeveSerInformada" computerName="BHZDS012" duration="00:00:00.0026130" startTime="2012-06-23T11:54:35.6567531-03:00" endTime="2012-06-23T11:54:35.6617534-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27cebb13-112d-498c-8eba-300ee9259d91">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a94a5053-a5ea-46b2-a5a2-bd00ce26b4ca" name="charles.fortes@BHZDS012 2012-06-22 22:21:44" runUser="PRIME\charles.fortes" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="29fc47a7-4b49-4376-bbb3-5e54a98db4ce">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="charles.fortes_BHZDS012 2012-06-22 22_21_44">
+      <DeploymentItem filename="C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\bin\Debug\Top.Framework.Core.dll" />
+      <DeploymentItem filename="C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Framework.Core\Required\NHibernate.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-22T22:21:44.1453669-03:00" queuing="2012-06-22T22:21:46.4815005-03:00" start="2012-06-22T22:21:46.5655053-03:00" finish="2012-06-22T22:21:49.5746774-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CanGenerateSchema" storage="c:\users\charles.fortes\dropbox\top\top.framework.core\tests\top.framework.core.testbase\bin\debug\top.framework.core.testbase.dll" id="cb4f194f-ff7c-089f-71b7-f25548c15a1d">
+      <Execution id="1148a8de-c1e1-4580-ae89-632913b55cda" />
+      <TestMethod codeBase="C:/Users/charles.fortes/Dropbox/TOP/Top.Framework.Core/Tests/Top.Framework.Core.TestBase/bin/Debug/Top.Framework.Core.TestBase.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Top.Framework.Core.TestBase.TestBase, Top.Framework.Core.TestBase, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CanGenerateSchema" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="cb4f194f-ff7c-089f-71b7-f25548c15a1d" executionId="1148a8de-c1e1-4580-ae89-632913b55cda" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1148a8de-c1e1-4580-ae89-632913b55cda" testId="cb4f194f-ff7c-089f-71b7-f25548c15a1d" testName="CanGenerateSchema" computerName="BHZDS012" duration="00:00:02.3301847" startTime="2012-06-22T22:21:46.5875066-03:00" endTime="2012-06-22T22:21:49.5286748-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1148a8de-c1e1-4580-ae89-632913b55cda">
+    </UnitTestResult>
+  </Results>
+</TestRun>

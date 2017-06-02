@@ -1,0 +1,60 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/f:Web.config" caret="752" fromTop="11" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:Helper/f:PersistenceHelper.cs" caret="373" fromTop="14" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/f:IValidatable.cs" caret="159" fromTop="4" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/f:IValidator.cs" caret="585" fromTop="15" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/f:Global.asax.cs" caret="0" fromTop="0" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/f:GenerateSchema.cs" caret="201" fromTop="8" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserListViewDataItem.cs" caret="241" fromTop="9" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/d:DomainObjects/d:Security/f:UserTest.cs" caret="405" fromTop="13" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:User.hbm.xml" caret="741" fromTop="20" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:UserRepository.cs" caret="454" fromTop="15" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:IUserRepository.cs" caret="830" fromTop="17" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:IRepository.cs" caret="0" fromTop="0" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/f:Entity.cs" caret="337" fromTop="11" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Detail.aspx" caret="0" fromTop="0" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Edit.aspx" caret="0" fromTop="0" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Index.aspx" caret="0" fromTop="0" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="920" fromTop="28" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/f:Web.config" caret="1218" fromTop="16" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Extension/f:StringExtension.cs" caret="492" fromTop="12" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="451" fromTop="11" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Security/f:User.cs" caret="1368" fromTop="18" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Security/d:Validation/f:UserValidator.cs" caret="561" fromTop="8" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="1173" fromTop="7" />
+    <File id="1F6FFE21-AB05-4D6E-ADC6-420205F4105F/d:Helpers/f:MatchLocalizedAttribute.cs" caret="644" fromTop="20" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="2908" fromTop="18" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="2832" fromTop="15" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="2987" fromTop="23" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="2588" fromTop="9" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="3289" fromTop="25" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="544" fromTop="16" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Index.aspx" caret="862" fromTop="20" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Index.aspx" caret="493" fromTop="11" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Edit.aspx" caret="84" fromTop="0" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Detail.aspx" caret="377" fromTop="9" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="1865" fromTop="9" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="2110" fromTop="31" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="2234" fromTop="18" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="2698" fromTop="30" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="1467" fromTop="31" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="1452" fromTop="24" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Views/d:Home/f:Edit.aspx" caret="392" fromTop="9" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="286" fromTop="8" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:User.hbm.xml" caret="1090" fromTop="29" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:User.hbm.xml" caret="951" fromTop="25" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:User.hbm.xml" caret="576" fromTop="13" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="705" fromTop="21" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="1098" fromTop="30" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Models/f:UserViewData.cs" caret="1592" fromTop="31" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Security/d:Validation/f:UserValidator.cs" caret="450" fromTop="10" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Security/f:User.cs" caret="320" fromTop="9" />
+    <File id="1F6FFE21-AB05-4D6E-ADC6-420205F4105F/d:Helpers/f:MatchLocalizedAttribute.cs" caret="890" fromTop="11" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="632" fromTop="10" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Security/d:Validation/f:UserValidator.cs" caret="1836" fromTop="30" />
+    <File id="39234891-DAEE-4D4A-87D8-787CA1C326A4/d:Controllers/f:HomeController.cs" caret="1173" fromTop="7" />
+  </RecentEdits>
+</RecentFiles>

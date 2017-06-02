@@ -1,0 +1,5 @@
+C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Infrastructure.Web\bin\Debug\Top.Infrastructure.Web.dll
+C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Infrastructure.Web\bin\Debug\Top.Infrastructure.Web.pdb
+C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Infrastructure.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Infrastructure.Web\obj\Debug\Top.Infrastructure.Web.dll
+C:\Users\charles.fortes\Dropbox\TOP\Top.Framework.Core\Top.Infrastructure.Web\obj\Debug\Top.Infrastructure.Web.pdb

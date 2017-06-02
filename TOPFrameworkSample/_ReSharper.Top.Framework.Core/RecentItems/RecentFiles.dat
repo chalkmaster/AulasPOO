@@ -1,0 +1,45 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Extension/f:StringExtension.cs" caret="254" fromTop="11" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:IRepository.cs" caret="228" fromTop="6" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:ISampleRepository.cs" caret="0" fromTop="0" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="272" fromTop="8" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:SampleRepository.cs" caret="311" fromTop="9" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:Helper/f:PersistenceHelper.cs" caret="621" fromTop="20" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/f:Entity.cs" caret="262" fromTop="9" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/f:GenerateSchema.cs" caret="167" fromTop="6" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Sample.hbm.xml" caret="175" fromTop="1" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Sample/f:Sample.cs" caret="193" fromTop="7" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:ISampleRepository.cs" caret="0" fromTop="0" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:IRepository.cs" caret="92" fromTop="2" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1844" fromTop="44" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1400" fromTop="19" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1396" fromTop="14" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1830" fromTop="29" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="302" fromTop="7" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1545" fromTop="26" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:IRepository.cs" caret="228" fromTop="6" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/f:ISampleRepository.cs" caret="99" fromTop="2" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="142" fromTop="5" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1290" fromTop="20" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="1234" fromTop="19" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="495" fromTop="10" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:Repository.cs" caret="775" fromTop="11" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:SampleRepository.cs" caret="252" fromTop="9" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/f:SampleRepository.cs" caret="311" fromTop="9" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:Helper/f:PersistenceHelper.cs" caret="83" fromTop="3" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:Helper/f:PersistenceHelper.cs" caret="483" fromTop="16" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:DomainObjects/d:Sample/f:Sample.cs" caret="162" fromTop="6" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Sample.hbm.xml" caret="837" fromTop="17" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Sample.hbm.xml" caret="665" fromTop="17" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Sample.hbm.xml" caret="538" fromTop="13" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Sample.hbm.xml" caret="276" fromTop="5" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/f:GenerateSchema.cs" caret="491" fromTop="15" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/f:GenerateSchema.cs" caret="491" fromTop="21" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/f:GenerateSchema.cs" caret="351" fromTop="18" />
+    <File id="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD/f:GenerateSchema.cs" caret="459" fromTop="16" />
+    <File id="02A861B8-96A5-4A05-B623-7DC531FF95D9/d:Infrastructure/d:Repository/d:NHibernate/d:Mapping/f:Sample.hbm.xml" caret="175" fromTop="1" />
+  </RecentEdits>
+</RecentFiles>

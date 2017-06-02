@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="02A861B8-96A5-4A05-B623-7DC531FF95D9" ModuleId="Top.Framework.Core" />
+  <Module PersistentId="135D4955-6041-4DCC-98FB-40A4DB973EF7" ModuleId="Top.Framework.Core.TestBase" />
+  <Module PersistentId="9F08B676-A58C-4BAA-AAA9-6B1A394A57CD" ModuleId="Top.Framework.Core.TestBase_1" />
+</Modules>
